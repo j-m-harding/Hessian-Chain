@@ -1,4 +1,4 @@
-# Hessian-Chain 🚀
+# Hessian-Chain 
 **High-Fidelity Probabilistic Parallel Execution Engine via MI Minimization & Hessian-Free Optimization**
 
 ### 1. Abstract
